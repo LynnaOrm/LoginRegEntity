@@ -1,0 +1,8 @@
+C:\Users\Lena Orm\Desktop\DojoAssignments\C#\LoginRegEntity\bin\Debug\netcoreapp1.1\LoginRegEntity.deps.json
+C:\Users\Lena Orm\Desktop\DojoAssignments\C#\LoginRegEntity\bin\Debug\netcoreapp1.1\LoginRegEntity.runtimeconfig.json
+C:\Users\Lena Orm\Desktop\DojoAssignments\C#\LoginRegEntity\bin\Debug\netcoreapp1.1\LoginRegEntity.runtimeconfig.dev.json
+C:\Users\Lena Orm\Desktop\DojoAssignments\C#\LoginRegEntity\bin\Debug\netcoreapp1.1\LoginRegEntity.dll
+C:\Users\Lena Orm\Desktop\DojoAssignments\C#\LoginRegEntity\bin\Debug\netcoreapp1.1\LoginRegEntity.pdb
+C:\Users\Lena Orm\Desktop\DojoAssignments\C#\LoginRegEntity\obj\Debug\netcoreapp1.1\LoginRegEntity.AssemblyInfo.cs
+C:\Users\Lena Orm\Desktop\DojoAssignments\C#\LoginRegEntity\obj\Debug\netcoreapp1.1\LoginRegEntity.dll
+C:\Users\Lena Orm\Desktop\DojoAssignments\C#\LoginRegEntity\obj\Debug\netcoreapp1.1\LoginRegEntity.pdb
